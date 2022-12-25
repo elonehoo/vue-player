@@ -20,8 +20,8 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "core-js": "^3.0.0",
-    "vue": "^3.0.0"
+    "core-js": "^3.27.0",
+    "vue": "^3.2.45"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "5.0.8",
@@ -29,13 +29,13 @@
     "@vue/cli-plugin-unit-mocha": "5.0.8",
     "@vue/cli-service": "5.0.8",
     "@vue/eslint-config-standard": "8.0.1",
-    "@vue/test-utils": "2.0.2",
+    "@vue/test-utils": "2.2.6",
     "babel-eslint": "10.1.0",
-    "chai": "4.3.6",
-    "eslint": "8.23.0",
-    "eslint-plugin-vue": "9.4.0",
+    "chai": "4.3.7",
+    "eslint": "8.30.0",
+    "eslint-plugin-vue": "9.8.0",
     "node-sass": "7.0.3",
-    "sass-loader": "13.0.2",
-    "vue-template-compiler": "2.7.10"
+    "sass-loader": "13.2.0",
+    "vue-template-compiler": "2.7.14"
   }
 }
